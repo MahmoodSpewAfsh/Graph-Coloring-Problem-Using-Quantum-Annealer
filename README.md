@@ -49,7 +49,7 @@ $$\[
 
 ## Files
 
-- `generate_qubo.py`: The main Python script that generates the QUBO model for the graph coloring problem.
+- `Graph_Coloring_Problem.ipynb`: The main Python script that generates the QUBO model for the graph coloring problem.
 
 ## Requirements
 
