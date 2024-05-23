@@ -37,7 +37,7 @@ To encode the graph coloring problem as a QUBO problem, we introduce binary vari
      \]$$
    - This can be encoded in the QUBO model with a penalty term:
     $$\[
-     B x_{ui} x_{vi}
+     A x_{ui} x_{vi}
      \]$$
 
 #### QUBO Model
