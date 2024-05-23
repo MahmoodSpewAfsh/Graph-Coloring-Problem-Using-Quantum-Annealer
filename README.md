@@ -1,6 +1,7 @@
 # Graph Coloring with Ising Model on D-Wave Quantum Annealer
 
 This repository contains a Python implementation for solving the graph coloring problem using an Ising model and D-Wave's quantum annealer.
+## Theory
 
 ## Overview
 
