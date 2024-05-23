@@ -1,7 +1,3 @@
-# Graph-Coloring-Problem-Using-Quantum-Annealer
-This repo is created for the implementation of Graph Coloring Problem using D'wave Qauntum Annealer for QCISBU class
-
-
 # Graph Coloring with Ising Model on D-Wave Quantum Annealer
 
 This repository contains a Python implementation for solving the graph coloring problem using an Ising model and D-Wave's quantum annealer.
