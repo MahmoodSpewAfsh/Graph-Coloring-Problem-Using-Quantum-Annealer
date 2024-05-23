@@ -43,9 +43,9 @@ To encode the graph coloring problem as a QUBO problem, we introduce binary vari
 #### QUBO Model
 
 Combining the constraints, the QUBO model can be expressed as:
-\[
+$\[
 \text{Minimize} \quad \sum_{v \in V} \left[ A \left( 1 - \sum_{i=0}^{k-1} x_{vi} \right)^2 \right] + \sum_{(u, v) \in E} \sum_{i=0}^{k-1} B x_{ui} x_{vi}
-\]
+\]$
 
 ## Files
 
