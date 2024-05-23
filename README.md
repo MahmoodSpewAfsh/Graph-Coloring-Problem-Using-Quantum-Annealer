@@ -23,7 +23,7 @@ To encode the graph coloring problem as a QUBO problem, we introduce binary vari
 1. **Each Vertex Must Have Exactly One Color**:
    - For each vertex \( v \), the sum of all color assignments should be exactly 1:
     $$\[
-     A\sum_{i=0}^{k-1} x_{vi} = 1
+     \sum_{i=0}^{k-1} x_{vi} = 1
      \]$$
    - This can be encoded in the QUBO model with a penalty term:
     $$\[
